@@ -3,9 +3,9 @@ A high-performance binary classifier developed in PyTorch to distinguish between
 # 🛡️ CIFAKE: AI-Generated Image Detection using ResNet-18
 
 ## 📌 Project Overview
-As AI-generated imagery becomes increasingly indistinguishable from reality, the need for robust detection systems is critical. This project implements a **ResNet-18** deep learning architecture fine-tuned on the **CIFAKE dataset** (100,000 images) to classify images as "REAL" or "FAKE" (AI-generated).
+This project implements a **ResNet-18** deep learning architecture fine-tuned on the **CIFAKE dataset** (100,000 images) to classify images as "REAL" or "FAKE" (AI-generated).
 
-By leveraging **Transfer Learning** and **Frequency Domain Analysis**, the model achieves a validation accuracy of **95.78%**.
+By leveraging **Transfer Learning** and **Frequency Domain Analysis**, the model achieves a validation accuracy of **95.64%**.
 
 ---
 
