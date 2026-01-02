@@ -37,6 +37,6 @@ Before training, I implemented a **Fast Fourier Transform (FFT)** analysis to vi
 | :--- | :--- |
 | **Training Samples** | 80,000 |
 | **Testing Samples** | 20,000 |
-| **Epochs** | 7 (on the full 100k set) |
+| **Epochs** | 6 (on the full 100k set) |
 | **Final Accuracy** | **95.64%** |
 
