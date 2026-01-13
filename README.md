@@ -5,7 +5,7 @@ A high-performance binary classifier developed in PyTorch to distinguish between
 ## 📌 Project Overview
 This project implements a **ResNet-18** deep learning architecture fine-tuned on the **CIFAKE dataset** (100,000 images) to classify images as "REAL" or "FAKE" (AI-generated).
 
-By leveraging **Transfer Learning** and **Frequency Domain Analysis**, the model achieves a validation accuracy of **95.64%**.
+By leveraging **Transfer Learning**, the model achieves a validation accuracy of **95.64%**.
 
 ---
 
